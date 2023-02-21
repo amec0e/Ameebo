@@ -1,0 +1,7 @@
+Link_Ocarina_of_Time:01000000034B0902
+Link_Majoras_Mask:01000000034C0902
+Link_Twilight_Princess:01000000034D0902
+Link_Skyward_Sword:01000000034E0902
+8-Bit_Link:01000000034F0902
+Toon_Link_The_Wind_Waker:0100010003500902
+Toon_Zelda_The_Wind_Waker:0101000003520902
